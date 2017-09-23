@@ -1,2 +1,1 @@
-# LINE-BOT-PHP-Starter-master
-no description
+# LINE-BOT-PHP-Starter
